@@ -143,3 +143,8 @@ td img{vertical-align:middle}
  .path{flex-direction:column;align-items:center}.arrow.side{transform:rotate(90deg)}
  .small-card{width:100%;max-width:300px}
 }
+.quest .qprize{margin:8px 0 0;font-size:.9rem}
+.quest .facts.mini{grid-template-columns:2fr 1fr}.quest .facts.mini dd{font-size:.95rem}
+.qitems{display:flex;flex-wrap:wrap;gap:4px;margin-top:4px}.qitem{display:inline-flex;align-items:center;gap:2px;font-size:.8rem;font-weight:700}
+.tag.q-main{background:#2c7a6f;color:#fff}.tag.q-side{background:#6b6f78;color:#fff}.tag.q-visual{background:#a8692c;color:#fff}.tag.q-faction{background:#6b3fa0;color:#fff}
+td.num{text-align:center;font-weight:800}
